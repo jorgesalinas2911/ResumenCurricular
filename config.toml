@@ -1,4 +1,4 @@
-baseURL = "jorgesalinasweb.netlify.app"
+baseURL = "https://jorgesalinasweb.netlify.app/"
 languageCode = "en-us"
 title = "Jorge Salinas || Web Dev"
 theme = "hugo-uilite"
