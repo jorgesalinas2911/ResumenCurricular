@@ -6,7 +6,7 @@
   {{ range $key, $value := $skills.skills }}
 
   <div class="skill">
-    <span class="h5"><strong>{{ $key }}</strong></span>
+    <span class="h6"><strong>{{ $key }}</strong></span>
     <span>( {{$value}}% )</span>
     <div class="progress">
       <div class="progress-bar bg-blue" role="progressbar" style="width: {{ $value }}%" aria-valuenow="10"
