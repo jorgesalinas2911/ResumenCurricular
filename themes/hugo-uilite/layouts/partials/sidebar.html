@@ -13,20 +13,20 @@
     <div class="social my-4">
 
       {{ range $key, $value := $social }}
-        <a target="_blank" href="{{ $value }}" rel="me">
-          <i class="fab fa-{{ $key }}"></i>
-        </a>
+      <a target="_blank" href="{{ $value }}" rel="me">
+        <i class="fab fa-{{ $key }}"></i>
+      </a>
       {{ end }}
 
       {{ range $key, $value := $socialfas }}
-        <a target="_blank" href="{{ $value }}">
-          <i class="fas fa-{{ $key }}"></i>
-        </a>
+      <a target="_blank" href="{{ $value }}">
+        <i class="fas fa-{{ $key }}"></i>
+      </a>
       {{ end }}
 
     </div>
 
-    <a href="#contact" class="btn btn-dark btn-lg">Contact</a>
+    <a href="#contact" class="btn btn-dark btn-lg">Contáctame</a>
 
 
   </div>

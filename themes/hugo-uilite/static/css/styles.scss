@@ -1,14 +1,12 @@
-*{
-  // outline: 1px solid red;
-}
-
 html{
   overflow-x: hidden;
   overflow-y: scroll; 
 }
 
 a{
+  color: #000;
   &:hover{
+    color: #fff;
     text-decoration: none;
   }
 }
@@ -238,8 +236,24 @@ section{
   }
 
   &.aqua{
-    background-color: #00fefe;
-    color: #000 !important;
+    background-color: #227093;
+    color: #fff !important;
+  }
+
+  &.shy{
+    background-color: #a29bfe;
+  }
+
+  &.calabaza{
+    background-color: #ff793f;
+  }
+
+  &.mandarina{
+    background-color: #ffb142;
+  }
+
+  &.purpurina{
+    background-color: #ff5252;
   }
 
   &.pink{
@@ -253,7 +267,7 @@ section{
   background-color: #fff;
   
   .bg-blue{
-    background-color: #2e96a5;
+    background-color: #2ea560;
   }
 }
 

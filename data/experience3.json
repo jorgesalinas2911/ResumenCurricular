@@ -1,0 +1,53 @@
+{
+    "title": "Cursos Realizados",
+    "experience": [
+        {
+            "timeperiod": "Agosto - 2000",
+            "company": "Introduccion al diseno de paginas web.",
+            "description": "UNIDATA - Maracaibo - Edo.Zulia. Venezuela. "
+        },
+        {
+            "timeperiod": "Abril - 2005",
+            "company": "Dia.NET URBE",
+            "description": "Universidad Dr. Rafael Belloso Chacin (URBE) - Maracaibo - Edo.Zulia. Venezuela."
+        },
+        {
+            "timeperiod": "Junio - 2007",
+            "company": "Visual Basic Basico",
+            "description": "UNIDATA - Maracaibo - Edo. Zulia. Venezuela."
+        },
+        {
+            "timeperiod": "Abril - 2009",
+            "company": "Diplomado: Diseno de medios digitales web",
+            "description": "Universidad Dr. Rafael Belloso Chacin (URBE) - Maracaibo - Edo.Zulia. Venezuela."
+        },
+        {
+            "timeperiod": "Octubre - 2013",
+            "company": "Diplomado: Confiabilidad Integral en sistemas industriales",
+            "description": "R2M Reliability & Risk Management - Maracaibo - Edo.Zulia. Venezuela. "
+        },
+        {
+            "timeperiod": "2016",
+            "company": "Curso de Ruby",
+            "website": "www.platzi.com",
+            "description": "Platzi (Curso Online)"
+        },
+        {
+            "timeperiod": "2016",
+            "company": "Curso de Git y Github",
+            "website": "www.platzi.com",
+            "description": "Platzi (Curso Online)"
+        },
+        {
+            "timeperiod": "2016",
+            "company": "Curso de Ruby On Rails",
+            "website": "www.platzi.com",
+            "description": "Platzi (Curso Online)"
+        },
+        {
+            "timeperiod": "2019",
+            "company": "Responsive Web Design",
+            "description": "FreeCodeCamp"
+        }
+    ]
+}

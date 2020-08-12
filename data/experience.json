@@ -1,16 +1,35 @@
 {
-	"title" : "Experience",
-	"experience" : [
+	"title": "Experiencia Laboral",
+	"experience": [
 		{
-			"timeperiod" : "May 2017 - Nov 2017",
-			"company" : "Uber",
-			"website": "https://www.uber.com",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"timeperiod": "2005",
+			"company": "Adm Solutions",
+			"description": "Chequeo de Inventarios para posterior correccion en sistema."
 		},
 		{
-			"timeperiod" : "Nov 2017 - Present",
-			"company" : "Google",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"timeperiod": "2006",
+			"company": "Adm Solutions",
+			"description": "Pasante (Departamento de Soporte Tecnico)."
+		},
+		{
+			"timeperiod": "2008",
+			"company": "Adm Solutions",
+			"description": "Asistente de desarrollo (Departamento de desarrollo de sistemas)."
+		},
+		{
+			"timeperiod": "2008-2009",
+			"company": "Adm Solutions",
+			"description": "Departamento de desarrollo web (Mantenimiento de contenido)."
+		},
+		{
+			"timeperiod": "2010",
+			"company": "IRCA Ingenieria de Riesgo, C.A.",
+			"description": "Transcriptor de estudios de HAZOP (Hazard and operability)."
+		},
+		{
+			"timeperiod": "2013-2019",
+			"company": "Inversiones Stratus Tres, C.A",
+			"description": "Gerente de ventas/Encargado"
 		}
 	]
 }

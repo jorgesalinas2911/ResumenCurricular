@@ -1,0 +1,25 @@
+{
+    "title": "Estudios Realizados",
+    "experience": [
+        {
+            "timeperiod": "1989-1996",
+            "company": "Educacion Primaria: Instituto Educativo Colegio LOS APAMATES",
+            "description": "Maracaibo - Edo.Zulia. Venezuela. "
+        },
+        {
+            "timeperiod": "1996-1998",
+            "company": "Educacion Secundaria: Instituto Educativo Colegio LOS APAMATES",
+            "description": "Maracaibo - Edo.Zulia. Venezuela."
+        },
+        {
+            "timeperiod": "1998-2001",
+            "company": "Educacion Secundaria: Instituto Educativo Colegio Santa Angela",
+            "description": "Maracaibo - Edo. Zulia. Venezuela."
+        },
+        {
+            "timeperiod": "2001-2007",
+            "company": "Educacion Universitaria: Universidad Dr. Rafael Belloso Chacin",
+            "description": "Maracaibo - Edo. Zulia. Venezuela."
+        }
+    ]
+}

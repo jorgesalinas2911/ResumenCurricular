@@ -1,15 +1,25 @@
 {
-	"title" : "Services",
-	"services" : [
+	"title": "Aptitudes y Fortalezas",
+	"services": [
 		{
-			"icon" : "pencil-ruler",
-			"title" : "Logo Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"icon": "laptop-code",
+			"title": "Responsive Web Design",
+			"description": "Puedo realizar sitios responsive para tu empresa totalmente funcionales, conversemos y me encargare de materializar tus ideas. "
 		},
 		{
-			"icon" : "pen-nib",
-			"title" : "Graphics Design",
-			"description" : "Nunc sapien nisi, maximus eleifend hendrerit sit amet, rutrum vel diam. Duis quam nibh, tincidunt eget nunc nec, suscipit pretium dolor. "
+			"icon": "paint-brush",
+			"title": "Creacion de Logos e imagen empresarial",
+			"description": "Puedo crear disenos que te representen empresarialmente. "
+		},
+		{
+			"icon": "chalkboard-teacher",
+			"title": "Clases personalizadas",
+			"description": "Estoy especializado en el area de Responsive web Design, y puedo ensenarte para que comiences con conocimientos claros y concisos y buenas practicas en el ambito del desarrollo front-end."
+		},
+		{
+			"icon": "grin-wink",
+			"title": "Disponibilidad Inmediata",
+			"description": "Estoy listo para comenzar a trabajar en tu proyecto, y tengo disponibilidad para viajar, si deseas concretar un poyecto conmigo en persona, estoy completa disposicion laboral."
 		}
 	]
 }

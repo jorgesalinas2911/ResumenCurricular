@@ -1,9 +1,14 @@
 {
-	"title" : "Skills",
-	"skills" : {
-		"Sketch" : "90",
-		"Adobe XD" : "80",
-		"Illustrator" : "65",
-		"Photoshop" : "97"
+	"title": "Habilidades y Destrezas",
+	"skills": {
+		"HTML": "95",
+		"CSS": "90",
+		"PHP": "60",
+		"Adobe Illustrator": "70",
+		"Ruby/Ruby on Rails (ROR)": "40",
+		"Javascript": "35",
+		"SSOO: Mac, Linux, Windows": "90",
+		"Git y Github": "75",
+		"Idioma: Ingles": 87
 	}
 }
